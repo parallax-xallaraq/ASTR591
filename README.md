@@ -1,1 +1,2 @@
-# ASTR591
+Thresa Kelly
+ASTR 591
