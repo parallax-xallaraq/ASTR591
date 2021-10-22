@@ -1,0 +1,34 @@
+Age-of-Clusters-Final-2021
+Summary of information
+
+---
+
+Open Cluster: M11
+
+RA=18:51:05 
+DEC=-06:16:12 
+Distance=1900
+
+cutoff_radius=0.15 #degrees
+
+lower_cutoff_parallax=0.3
+upper_cutoff_parallax=0.7
+
+ext_blue_red=0.31
+open_cluster_distance=1900 #pc
+
+---
+
+Globular Cluster: M2
+
+RA=21:33:27.0 
+DEC=-00:49:23.7 
+Distance=16863
+
+cutoff_radius=0.25 #degrees
+
+lower_cutoff_parallax=0.0001
+upper_cutoff_parallax=0.3
+
+ext_blue_red=-0.08
+globular_cluster_distance=16863 #pc
